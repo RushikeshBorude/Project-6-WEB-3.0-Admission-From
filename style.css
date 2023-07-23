@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(228, 211, 97), rgb(193, 239, 66));
+}
+.con {
+  width: 600px;
+  background: #caeae6;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 11px;
+  border: 2px solid rgb(224, 203, 51);
+}
+input, option, textarea {
+border-radius: 11px;
+}
+h1 {
+  font-family: 'Ysabeau Infant', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+table {
+  font-family: 'Ysabeau Infant', sans-serif;
+  color: black;
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+  background-color: #b5d4e3;
+  border-collapse: collapse;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgba(32, 23, 23, 0.075);
+}
+
+.submit {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #b1f77b;
+  border: none;
+  color: black;
+  border: 2px solid yellowgreen;
+  width: 400px;
+  cursor: pointer;
+  border-radius: 22px;  
+  font-family: 'Ysabeau Infant', sans-serif;  
+}
